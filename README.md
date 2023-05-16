@@ -4,8 +4,11 @@ I've thrown together a few articles that relate in some way or another to human 
 I've uploaded some pdf's that I like. Should be somewhere in the repository!
 #### About the Articles
 Jacob Boss, Religion PhD student at Indiana University explores what it means to be a "cyborg" both today and in the future through focusing on disabled people, distributed biohacking communities and the response from academia and industry.  Punks and Profiteers focuses on the biohacking community and the culture at odds with the status quo while Harmony of Metal discusses the disabled community and their reliance on assistive aids as a form of underappreciated cyborg.
+
 The Gernsback Continuum is a short story by William Gibson, one of the forefathers of the cyberpunk genre. It covers retrofuturism and the power of idealism in the common consciousness.
+
 Unredeemable Utopian discusses the role that “builders” play in designing tomorrow. Although focused on architecture, the concepts of making and unmaking work with any engineering or scientific field.
+
 I’ve also included links to the Biohack.me forums and the Dangerous Things forum.  Although Biohack.me has been fairly quiet lately, the backlog of information is incredible. There’s also some links below to previous projects and media coverage in the community.
 ### Media Coverage:
 https://www.wired.com/story/this-diy-implant-lets-you-stream-movies-from-inside-your-leg/
