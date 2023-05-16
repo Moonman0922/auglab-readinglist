@@ -1,5 +1,5 @@
 # Augmentation Lab Reading List
-I've thrown together a few articles that relate in some way or another to human augmentation, futurism, and the role technology and its creators play in making the future. This is just what I could throw together quickly, let me know if you want more info on anything! Hopefully these help!
+I've thrown together a few articles for the Augmentaion Lab that relate in some way or another to human augmentation, futurism, and the role technology and its creators play in making the future. This is just what I could throw together quickly, let me know if you want more info on anything! Hopefully these help!
 ## Readings, Media and some Other Neat Stuff
 I've uploaded some pdf's that I like. Should be somewhere in the repository!
 #### About the Articles
